@@ -1,0 +1,37 @@
+{
+  "name": "dreamshop",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@stripe/stripe-js": "^2.2.2",
+    "bcrypt": "^5.1.1",
+    "cloudinary": "^2.6.0",
+    "jsonwebtoken": "^9.0.2",
+    "moment": "^2.29.4",
+    "mongoose": "^8.0.3",
+    "next": "15.2.4",
+    "nodemon": "^3.0.2",
+    "query-string": "^8.1.0",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "react-icons": "^4.11.0",
+    "react-spinners": "^0.13.8",
+    "react-toastify": "^11.0.5",
+    "recharts": "^2.15.1",
+    "socket.io": "^4.7.2",
+    "socket.io-client": "^4.7.2",
+    "stripe": "^14.9.0",
+    "swiper": "^11.0.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.2",
+    "postcss": "^8.4.32",
+    "tailwindcss": "^4.1.2"
+  }
+}
