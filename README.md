@@ -50,7 +50,7 @@ Follow these steps to set up and run the project on your local machine.
 
 ```bash
 git clone https://github.com/dilwalashakib/DreamShop.git
-cd chat-app
+cd dream-shop
 ```
 
 ### 2. Install Dependencies
